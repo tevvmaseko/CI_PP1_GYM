@@ -1,4 +1,4 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+![Live site](https://tevvmaseko.github.io/CI_PP1_GYM/)
 
 Welcome,
 1
