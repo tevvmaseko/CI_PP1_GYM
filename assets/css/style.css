@@ -265,7 +265,8 @@ footer {
         margin: 0;
     }
 
-    #left-about, #right-about {
+    #left-about,
+    #right-about {
         width: 100%;
         float: left;
         padding: 0;
@@ -278,7 +279,7 @@ footer {
         padding: 0;
     }
 
-    #times> div {
+    #times>div {
         width: 100%;
         clear: both;
         height: 150px;
@@ -311,16 +312,19 @@ footer {
         margin: 0 auto;
     }
 
-    .left-about-heading, .right-about-heading {
+    .left-about-heading,
+    .right-about-heading {
         width: inherit;
     }
 
-    .left-about-heading h2, .right-about-heading h2 {
+    .left-about-heading h2,
+    .right-about-heading h2 {
         width: 100%;
         text-align: center;
     }
 
-    .left-about-heading p, .right-about-heading p {
+    .left-about-heading p,
+    .right-about-heading p {
         text-align: center;
         padding: 0 20px;
     }
@@ -332,9 +336,9 @@ footer {
 
 /* For small screen sizes 800px and down */
 
-@media  screen and (max-width: 800px) {
+@media screen and (max-width: 800px) {
     #photos {
         column-count: 2;
     }
-    
+
 }
