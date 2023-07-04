@@ -222,6 +222,10 @@ footer {
     height: 150px;
 }
 
+footer h2, p{
+    text-align: left;
+}
+
 .social-networks {
     text-align: center;
 }
